@@ -10,8 +10,6 @@ services:
       - new=1
       - PT_PORT=8081
       - Pdlport=8181
-      - proxy_api_prefix=wxosler
-      - setup_password=kwxosjyancan.
       - licid=yxxxxxevjZxxxFg9xxxxxE
     volumes:
       - ./PandoraNextToken:/data

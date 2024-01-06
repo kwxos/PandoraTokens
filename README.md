@@ -9,6 +9,7 @@
 |setup_password|是|proxy接口前缀,用于热重载的密码|kwxosbig.bast|
 |licid|是|pandoranext运行必的要参数，在https://dash.pandoranext.com/获取|yxxxxxevjZxxxFg9xxxxxE|
 ### docker命令运行：
+### 运行时修改必要变量
 ```
 docker run \
     -itd \

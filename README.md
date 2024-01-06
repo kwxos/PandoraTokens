@@ -25,7 +25,21 @@ docker run \
     -v $(pwd)/PandoraNextToken:/data \
     kwxos/pandoratokentool:latest
 ```
+### docker-compose运行
+### 下载docker-compose.yml
+```
+wget https://raw.githubusercontent.com/kwxos/PandoraTokens/main/docker-compose.yml
+```
+### 修改docker-compose.yml文件中的参数变量
+### 然后运行
+```
+docker-compose up -d
+```
 ### 在paas免费容器中运行pandoranext-tokentool和pandoranext
+### 镜像
+
+`kwxos/pandoratokentool:latestpaas`
+
 | 参数 | 是否必要 | 说明 |示例|
 | ---- | ---- | ---- | ---- |
 | new |否|重启docker更新两个程序"1"为开启重启更新不使用此参数则重启不更新| 1 |
@@ -39,7 +53,6 @@ docker run \
 |NZ_PORT|否|哪吒面板的端口，当为443时，自动开启tls|443|
 |NZ_PASSWORD|否|哪吒面板后所创建的秘钥|asxxxxxxxfswd|
 ### 获取CFtoken
-
 | 为了 | 看起来 | 好看 |
 | ---- | ---- | ---- |
 |![80231c47c558df1b0228e76b48aa8fb4](https://github.com/kwxos/PandoraTokens/assets/102129419/0450324a-cb7a-4121-947b-c2801b2c1c59)|![59db6687d9e7e2debfe606155f6ea487](https://github.com/kwxos/PandoraTokens/assets/102129419/f0432da7-4a2b-434b-b36b-eda9aa0cb5e8)|![4928f6e8ca0d036fc46feb7dae2b48f6](https://github.com/kwxos/PandoraTokens/assets/102129419/1c2c98ba-6d0a-4249-bc53-e7dbdc7510ef)|

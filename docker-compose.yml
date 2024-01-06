@@ -2,7 +2,7 @@ version: '3'
 
 services:
   pandoratokentool:
-    image: kwxos/pandoratokentool:latest
+    image: kwxos/pandoratokentool:latestvps
     container_name: pandoratokentool
     restart: always
     network_mode: host

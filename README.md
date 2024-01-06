@@ -52,6 +52,18 @@ docker-compose up -d
 |NZ_HOST|否|哪吒面板的域名，当不填时，将不会运行哪吒|nezha.xxx.xxx|
 |NZ_PORT|否|哪吒面板的端口，当为443时，自动开启tls|443|
 |NZ_PASSWORD|否|哪吒面板后所创建的秘钥|asxxxxxxxfswd|
+### 示例：
+
+![e778ec9117a9e9fc307b5ca48e81d854](https://github.com/kwxos/PandoraTokens/assets/102129419/718ec475-3d69-4b6d-bcd7-f44a28aacdcc)
+
+### 所有参数
+
+![6da30e3f0cf1757ddda065a7718cf3e8](https://github.com/kwxos/PandoraTokens/assets/102129419/cab4c8fa-3469-4674-a03a-9d363bde5420)
+
+### 容器平台释放端口
+
+![7d5c18e7c188a1c290c7023f077dd214](https://github.com/kwxos/PandoraTokens/assets/102129419/daae96da-f5ce-4d33-b2fb-220b0ebc2fd2)
+
 ### 获取CFtoken
 | 为了 | 看起来 | 好看 |
 | ---- | ---- | ---- |

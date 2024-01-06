@@ -5,8 +5,6 @@
 | new |否|重启docker更新两个程序"1"为开启重启更新不使用此参数则重启不更新| 1 |
 |PT_PORT|否|pandoranext-tokentool的端口,默认8081，建议修改|8081|
 |Pdlport|否|pandoranext的端口，默认8181，建议修改|8181|
-|proxy_api_prefix|是|proxy接口前缀,用于热重载|kwxosbig|
-|setup_password|是|proxy接口前缀,用于热重载的密码|kwxosbig.bast|
 |licid|是|pandoranext运行必的要参数，在https://dash.pandoranext.com/获取|yxxxxxevjZxxxFg9xxxxxE|
 ### docker命令运行：
 ### 运行时修改必要变量
@@ -45,8 +43,6 @@ docker-compose up -d
 | new |否|重启docker更新两个程序"1"为开启重启更新不使用此参数则重启不更新| 1 |
 | PT_PORT |否|pandoranext-tokentool的端口,默认8081，建议修改|8081|
 |Pdlport|否|pandoranext的端口，默认8181，建议修改|8181|
-|proxy_api_prefix|是|proxy接口前缀,用于热重载|kwxosbig|
-|setup_password|是|proxy接口前缀,用于热重载的密码|kwxosbig.bast|
 |licid|是|pandoranext运行必的要参数，在https://dash.pandoranext.com/  获取|yxxxxxevjZxxxFg9xxxxxE|
 |CFtoken|是|coudflare的Tunnels所建的token|exxxxxxxxIxiLCJxxxxxTx0xk3YzQxxxxi|
 |NZ_HOST|否|哪吒面板的域名，当不填时，将不会运行哪吒|nezha.xxx.xxx|

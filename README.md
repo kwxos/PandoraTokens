@@ -39,17 +39,14 @@ docker run \
 |NZ_PASSWORD|否|哪吒面板后所创建的秘钥|asxxxxxxxfswd|
 ### 获取CFtoken
 
-![80231c47c558df1b0228e76b48aa8fb4](https://github.com/kwxos/PandoraTokens/assets/102129419/0450324a-cb7a-4121-947b-c2801b2c1c59)
+| 为了 | 看起来 | 好看 |
+| ---- | ---- | ---- |
+|![80231c47c558df1b0228e76b48aa8fb4](https://github.com/kwxos/PandoraTokens/assets/102129419/0450324a-cb7a-4121-947b-c2801b2c1c59)|![59db6687d9e7e2debfe606155f6ea487](https://github.com/kwxos/PandoraTokens/assets/102129419/f0432da7-4a2b-434b-b36b-eda9aa0cb5e8)|![4928f6e8ca0d036fc46feb7dae2b48f6](https://github.com/kwxos/PandoraTokens/assets/102129419/1c2c98ba-6d0a-4249-bc53-e7dbdc7510ef)|
+|![df4376de54ba49c2dd10e6c86cf71bf4](https://github.com/kwxos/PandoraTokens/assets/102129419/637fff5b-702c-4c71-8101-4c04a020e077)|
 
-![59db6687d9e7e2debfe606155f6ea487](https://github.com/kwxos/PandoraTokens/assets/102129419/f0432da7-4a2b-434b-b36b-eda9aa0cb5e8)
+|![25c17681bedd1fae3dd7ef7ab83d2079](https://github.com/kwxos/PandoraTokens/assets/102129419/19465e46-10c6-4c2d-9c3e-1395d3ed2e82)|
 
-![4928f6e8ca0d036fc46feb7dae2b48f6](https://github.com/kwxos/PandoraTokens/assets/102129419/1c2c98ba-6d0a-4249-bc53-e7dbdc7510ef)
-
-![df4376de54ba49c2dd10e6c86cf71bf4](https://github.com/kwxos/PandoraTokens/assets/102129419/637fff5b-702c-4c71-8101-4c04a020e077)
-
-![25c17681bedd1fae3dd7ef7ab83d2079](https://github.com/kwxos/PandoraTokens/assets/102129419/19465e46-10c6-4c2d-9c3e-1395d3ed2e82)
-
-![bc5f019a1925d940d95106aa9e6168b1](https://github.com/kwxos/PandoraTokens/assets/102129419/89050ce9-014b-4dd6-9824-d0885efe7ef0)
+|![bc5f019a1925d940d95106aa9e6168b1](https://github.com/kwxos/PandoraTokens/assets/102129419/89050ce9-014b-4dd6-9824-d0885efe7ef0)|
 
 ### 哪吒面板
 #### 哪吒文档：https://nezha.wiki/

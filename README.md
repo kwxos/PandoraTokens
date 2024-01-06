@@ -19,7 +19,7 @@ docker run \
     -e Pdlport=8181 \
     -e licid="yxxxxxevjZxxxFg9xxxxxE" \
     -v $(pwd)/PandoraNextToken:/data \
-    kwxos/pandoratokentool:latest
+    kwxos/pandoratokentool:latestvps
 ```
 ### docker-compose运行
 ### 下载docker-compose.yml

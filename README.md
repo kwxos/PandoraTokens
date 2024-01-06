@@ -33,6 +33,7 @@ wget https://raw.githubusercontent.com/kwxos/PandoraTokens/main/docker-compose.y
 docker-compose up -d
 ```
 ### 在paas免费容器中运行pandoranext-tokentool和pandoranext
+### 可以试试back4app，codesandbox.io，railway，uffizzi，fly.io，koybk，有koybk的可以试试，我在koybk上测试成功了
 ### 镜像
 
 `kwxos/pandoratokentool:latestpaas`

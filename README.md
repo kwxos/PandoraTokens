@@ -34,6 +34,6 @@ docker run \
 |setup_password|是|proxy接口前缀,用于热重载的密码|kwxosbig.bast|
 |licid|是|pandoranext运行必的要参数，在https://dash.pandoranext.com/获取|yxxxxxevjZxxxFg9xxxxxE|
 |CFtoken|是|coudflare的Tunnels所建的token|exxxxxxxxIxiLCJxxxxxTx0xk3YzQxxxxi|
-|NZ_HOST|是|哪吒面板的域名|nezha.xxx.xxx|
-|NZ_PORT|是|哪吒面板的端口，当为443时，自动开启tls|443|
-|NZ_PASSWORD|是|哪吒面板后所创建的秘钥|asxxxxxxxfswd|
+|NZ_HOST|否|哪吒面板的域名，当不填时，将不会运行哪吒|nezha.xxx.xxx|
+|NZ_PORT|否|哪吒面板的端口，当为443时，自动开启tls|443|
+|NZ_PASSWORD|否|哪吒面板后所创建的秘钥|asxxxxxxxfswd|

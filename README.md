@@ -50,9 +50,9 @@ docker-compose up -d
 
 ![e778ec9117a9e9fc307b5ca48e81d854](https://github.com/kwxos/PandoraTokens/assets/102129419/718ec475-3d69-4b6d-bcd7-f44a28aacdcc)
 
-### 所有参数
+### 参数示例
 
-![6da30e3f0cf1757ddda065a7718cf3e8](https://github.com/kwxos/PandoraTokens/assets/102129419/cab4c8fa-3469-4674-a03a-9d363bde5420)
+![5a4aa9073865c06705e26753cc3acca1](https://github.com/kwxos/PandoraTokens/assets/102129419/426fd86d-4bfe-44f0-ab5e-4e50b3d2b7ee)
 
 ### 容器平台释放端口
 

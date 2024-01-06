@@ -1,1 +1,1 @@
-FROM kwxos/pandoratokentool:latestvps
+FROM kwxos/pandoratokentool:latestpaas

@@ -1,4 +1,4 @@
-## 求star★★★
+## 求⭐⭐⭐ star ⭐⭐⭐
 ### 在有docker的服务器中运行[pandoranext-tokentool](https://apifox.com/apidoc/shared-40345b46-9c9c-45cc-b494-6a6a387a978f/doc-3430733)和[pandoranext](https://github.com/pandora-next/deploy)
 ### 感谢[Yanyutin753](https://github.com/Yanyutin753)和[wozulong](https://github.com/wozulong)
 | 参数 | 是否必要 | 说明 |示例|

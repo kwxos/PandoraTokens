@@ -11,5 +11,6 @@ services:
       - PT_PORT=8081
       - Pdlport=8181
       - licid=yxxxxxevjZxxxFg9xxxxxE
+      - Tool_path=/tokensTool
     volumes:
       - ./PandoraNextToken:/data

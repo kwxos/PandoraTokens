@@ -7,6 +7,7 @@
 |PT_PORT|否|pandoranext-tokentool的端口,默认8081，建议修改|8081|
 |Pdlport|否|pandoranext的端口，默认8181，建议修改|8181|
 |licid|是|pandoranext运行必的要参数，在https://dash.pandoranext.com/  获取|yxxxxxevjZxxxFg9xxxxxE|
+|Tool_path|是|Token-tool的URL自定义后缀，为了安全，建议增加|/tokensTool|
 ### docker命令运行：
 ### 运行时修改必要变量
 ```
@@ -19,6 +20,7 @@ docker run \
     -e PT_PORT=8081 \
     -e Pdlport=8181 \
     -e licid="yxxxxxevjZxxxFg9xxxxxE" \
+    -e Tool_path="/tokensTool" \
     -v $(pwd)/PandoraNextToken:/data \
     kwxos/pandoratokentool:latestvps
 ```
@@ -45,6 +47,7 @@ docker-compose up -d
 |Pdlport|否|pandoranext的端口，默认8181，建议修改|8181|
 |licid|是|pandoranext运行必的要参数，在https://dash.pandoranext.com/  获取|yxxxxxevjZxxxFg9xxxxxE|
 |CFtoken|是|coudflare的Tunnels所建的token|exxxxxxxxIxiLCJxxxxxTx0xk3YzQxxxxi|
+|Tool_path|是|Token-tool的URL自定义后缀，为了安全，建议增加|/tokensTool|
 |NZ_HOST|否|哪吒面板的域名，当不填时，将不会运行哪吒|nezha.xxx.xxx|
 |NZ_PORT|否|哪吒面板的端口，当为443时，自动开启tls|443|
 |NZ_PASSWORD|否|哪吒面板后所创建的秘钥|asxxxxxxxfswd|
